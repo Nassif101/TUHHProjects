@@ -8,5 +8,5 @@ int main() {	/*Main-Funktion soll zuerst aufgerufen werden*/
   b = 20;
   printf("Die Antwort ist: \t %d \n\n", a + b); /*Text-Output mit einer Operation*/
 
-  return 0;	
+  return 0;	/*0 bedeutet kein Fehler*/
 }
